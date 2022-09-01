@@ -1,0 +1,28 @@
+title{
+    text-shadow: 3px 2px yellow;
+  }
+  body {
+    text-align: center;
+    font-family: monospace;
+    background:url(101.jpg)  no-repeat center center;
+    background-size:cover;
+  }
+  h1{
+    color:white
+  }
+  h2{
+    color:rgb(28, 7, 7)
+  }
+  h3{
+    color:rgb(13, 7, 7)
+  }
+  p{
+    font-size:20px;
+    color:cyan
+  }
+    img {
+    border: 3px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 400px;
+  }
